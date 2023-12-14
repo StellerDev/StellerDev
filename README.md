@@ -24,7 +24,6 @@
         height="192px"/>
         </a>
         <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=stellerdev&layout=compact&theme=dark&hide_border=true" />
     </div>
   <br/>
 <div style="text-align: center;">
