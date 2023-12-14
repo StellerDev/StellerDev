@@ -7,11 +7,8 @@
 <div style="text-align: center;">
     <h2>About Me</h2>
     <ul>
-        <li>Name: Eyal</li>
-        <li>Age: 18</li>
-        <li>Hobbies: I enjoy playing Basketball, Coding, and going to the Gym</li>
-        <li>Fun Fact: I've been a Basketball player for 15 years 🏀 and a JavaScript Developer for 6 years 👩‍💻</li>
-        <li>1 Day 1 Code 💖</li>
+        <li>Name: Steller</li>
+        <li>Age: 16</li>
     </ul>
 </div>
 
